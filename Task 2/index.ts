@@ -24,8 +24,8 @@ function convertCelsiusToFahrenheit(celsius: number): number {
 }
 
 // Example Usage:
-console.log(add(2, 3)); // Output: 5
-console.log(checkEvenOrOdd(7)); // Output: Odd
+console.log(add(7, 3)); // Output: 10
+console.log(checkEvenOrOdd(9)); // Output: Odd
 console.log(calculateArea(4, 5)); // Output: 20
-console.log(reverseString("Hello")); // Output: olleH
+console.log(reverseString("Hello World")); // Output:dlroW olleH
 console.log(convertCelsiusToFahrenheit(25)); // Output: 77
