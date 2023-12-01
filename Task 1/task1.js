@@ -49,7 +49,7 @@ while (true) {
             },
         ]);
         const quantity = parseInt(quantityInput !== null ? quantityInput : "0", 10);
-        totalBill += quantity * 300;
+        totalBill += quantity * 100;
     }
     else {
         console.log("Invalid choice. (Type 1 for 'fruits' or 2 for 'vegetables' or 3 to finish).");
